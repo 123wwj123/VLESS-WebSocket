@@ -10,7 +10,7 @@
       "settings": {
         "clients": [
           {
-            "id": "这里替换为你的UUID（可用 uuidgen 生成）",
+            "UUID_PLACEHOLDER": "这里替换为你的UUID（可用 uuidgen 生成）",
             "level": 0
           }
         ],
